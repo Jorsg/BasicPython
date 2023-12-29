@@ -1,0 +1,1 @@
+from classModulo import calculadora, cientifica
